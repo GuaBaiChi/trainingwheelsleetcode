@@ -35,7 +35,7 @@ class Solution:
         return dummy.next
 
 
-# driver code 1
+# driver code
 def createLinkedList(lst):
     head = None
     for val in reversed(lst):
